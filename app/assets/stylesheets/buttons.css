@@ -1,0 +1,148 @@
+/************************************************************************************
+BUTTONS
+*************************************************************************************/
+.btn {
+  border-radius: 20px;
+  text-transform:uppercase;
+  font-family: 'CantoriaMTStd';
+  font-weight:normal;
+  font-size:14px;
+  line-height:14px;
+  text-decoration:none;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #eeaf3e;
+  border-color: #ffffff;
+  border:2px solid;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #dba139;
+  border-color: #ffffff;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  background-image: none;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  background-color: #eeaf3e;
+  border-color: #ffffff;
+}
+.btn-md {
+  border-radius: 30px;
+  text-transform:uppercase;
+  font-family: 'CantoriaMTStd';
+  font-weight:normal;
+  font-size:20px;
+  line-height:20px;
+  margin:0;
+  padding:8px 10px 8px 10px;
+}
+.btn-lg {
+  border-radius: 20px;
+  text-transform:uppercase;
+  font-family: 'CantoriaMTStd';
+  font-weight:normal;
+  font-size:18px;
+  line-height:18px;
+  padding:8px 10px 8px 10px;
+}
+.btn-sm {
+  font-size:14px;
+  line-height:14px;
+  padding:10px 10px 10px 10px;
+}
+.btn-xs {
+  font-size:10px;
+  line-height:10px;
+  font-weight:bold;
+  padding:7px 7px 7px 7px;
+}
+.btn-log-out {
+  font-size:10px;
+  line-height:10px;
+  font-weight:normal;
+  padding:7px 7px 7px 7px;
+}
+.btn-xs-extra-padding {
+  padding-left:30px;
+  padding-right:30px;
+}
+.btn-green {
+  background-color: #55b74e;
+}
+.btn-red {
+  background-color: #ee3022;
+}
+.btn-blue {
+  background-color: #009ed9;
+}
+.btn-gray {
+  background-color:#a7acaf;
+}
+.btn-padding-benefits {
+    margin-top:15px;
+    margin-bottom:25px;
+}
+.btn-padding-upgrade {
+  margin:-15px 0 20px 0;
+}
+.btn-upgrade {
+  width:100%;
+  margin-top:15px;
+}
+.btn-tabs {
+  margin:5px 0 15px 0;
+}
+
+.btn-tour {
+    background-color: #009ddc;
+    border:3px solid #003e87;
+    color:#fff;
+    line-height:10px;
+}
+.btn-tour:hover,
+.btn-tour:focus,
+.btn-tour:active,
+.btn-tour.active,
+.open > .dropdown-toggle.btn-tour {
+  color: #fff;
+  background-color: #0080b3;
+  border-color: #003e87;
+}
+
+/**************************
+MEDIA QUERIES
+***************************/
+@media (min-width: 768px) {
+.btn-upgrade {
+  width:85%;
+}
+}
+@media (min-width: 992px) {
+
+
+}
+@media (min-width: 1200px) {
+
+}

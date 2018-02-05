@@ -1,0 +1,73 @@
+<div class="section-boom-img-news"></div>
+<div class="section-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <h2>Press Contact:</h2>
+
+        <p><a href="mailto:mediarelations@guardstreet.com">mediarelations@guardstreet.com</a></p>
+      </div>
+      <div class="col-md-9">
+        <h1>Guard Street In The Press</h1>
+
+        <div class="row">
+          <div class="col-md-9">
+            <a href="http://www.infosecurity-magazine.com/opinions/tackling-a-false-sense-of-device/">Tackling A False Sense of Device Security</a>
+          </div>
+          <div class="col-md-3">
+            <%= social_share_button_tag("Tackling A False Sense of Device Security", :url => "http://www.infosecurity-magazine.com/opinions/tackling-a-false-sense-of-device/") %></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-9">
+            <a href="http://www.dailyherald.com/article/20141114/business/141119166/">Wheaton expert: Online shoppers should stay vigilant against privacy hackers</a>
+          </div>
+          <div class="col-md-3">
+            <%= social_share_button_tag("Guard Street™ Provides 10 Ways To Protect Your Privacy Online", :url => "http://www.dailyherald.com/article/20141114/business/141119166/") %></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-9">
+            <a href="https://sg.finance.yahoo.com/news/dont-let-hackers-ruin-holidays-190642066.html">Dont let hackers
+              ruin holidays</a>
+          </div>
+          <div class="col-md-3">
+            <%= social_share_button_tag("Guard Street™ Provides 10 Ways To Protect Your Privacy Online", :url => "http://www.busbyway.com/2014/10/24/watch-your-back-warns-guard-street-privacy-company-founder") %></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-9">
+            <a href="http://www.busbyway.com/2014/10/24/watch-your-back-warns-guard-street-privacy-company-founder">Watch
+              Your Back, Warns Guard Street™ Privacy Company Founder</a>
+          </div>
+          <div class="col-md-3">
+            <%= social_share_button_tag("Guard Street™ Provides 10 Ways To Protect Your Privacy Online", :url => "http://www.busbyway.com/2014/10/24/watch-your-back-warns-guard-street-privacy-company-founder") %></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-9">
+            <a href="http://www.prunderground.com/guard-street-provides-10-ways-to-protect-your-privacy-online/0044545/">Guard
+              Street Provides 10 Ways To Protect Your Privacy Online</a>
+          </div>
+          <div class="col-md-3">
+            <%= social_share_button_tag("Guard Street™ Provides 10 Ways To Protect Your Privacy Online", :url => "http://www.prunderground.com/guard-street-provides-10-ways-to-protect-your-privacy-online/0044545/") %>
+          </div>
+        </div>
+        </br>
+        <div class="row">
+          <div class="col-md-9">
+                <a href="http://patch.com/illinois/deerfield/wheaton-based-company-warn-consumers-dont-let-hackers-ruin-your-holidays-0/">Wheaton-Based Company Warn Consumers: Don't Let Hackers Ruin Your Holidays!</a>
+          </div>
+          <div class="col-md-3">
+            <%= social_share_button_tag("Wheaton-Based Company Warn Consumers: Don't Let Hackers Ruin Your Holidays!", :url => "http://patch.com/illinois/deerfield/wheaton-based-company-warn-consumers-dont-let-hackers-ruin-your-holidays-0/") %>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

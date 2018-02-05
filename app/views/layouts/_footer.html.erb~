@@ -1,0 +1,70 @@
+<div class="section-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4 col-md-4 col-lg-4">
+        <div class="row">
+          <div class="col-xs-6 col-sm-12">
+            <div class="footer-social-position"> <%= image_tag 'guard-street.gif', class: 'img-responsive' %></div>
+          </div>
+          <div class="col-xs-6 col-sm-12">
+            <div class="footer-social-position">
+              <p class="text-connect">Let's Connect</p>
+              <%= image_tag 'icons-social.gif', class: 'img-responsive', usemap: '#Map' %>
+              <map name="Map">
+                <area shape="rect" coords="1,-7,51,49" href="https://www.facebook.com/guardstreet" target="_blank">
+                <area shape="rect" coords="48,-9,105,61" href="https://twitter.com/guardstreet" target="_blank">
+                <area shape="rect" coords="103,0,152,47" href="https://www.linkedin.com/company/guard-street-partners-llc" target="_blank">
+                <area shape="rect" coords="150,0,210,47" href="https://plus.google.com/110880213799094163547" target="_blank">
+              </map>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-6 col-lg-6">
+        <div class="row">
+          <div class="col-xs-4 col-sm-4 col-md-4">
+            <div id="nav-footer-li">
+              <ul class="top-level-nav-footer-li">
+                <li><a href="<%= root_path(, :coupon_code => params[:coupon_code]) %>">Home</a></li>
+                <li><a href="http://support.guardstreet.com/support/home" target="_blank">Support</a></li>
+                <li><%= link_to 'About Us', page_path('about', :coupon_code => params[:coupon_code]) %></li>
+                <li><%= link_to 'Careers', page_path('careers', :coupon_code => params[:coupon_code]) %></li>
+                <li><%= link_to 'Press Room', page_path('pressroom', :coupon_code => params[:coupon_code]) %></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xs-4 col-sm-4 col-md-4">
+            <div id="nav-footer-li">
+              <ul class="top-level-nav-footer-li">
+                <li><%= link_to 'News', page_path('news', :coupon_code => params[:coupon_code]) %></li>
+                <li><%= link_to 'Privacy policy', page_path('privacy', :coupon_code => params[:coupon_code]) %></li>
+                <li><%= link_to 'FAQs', page_path('faqs', :coupon_code => params[:coupon_code]) %></li>
+                <li><%= link_to 'Terms of Use', page_path('terms', :coupon_code => params[:coupon_code]) %></li>
+                <li><%= link_to 'Contact Us', 'https://guardstreet.com/contacts/new', :target => '_blank' %></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xs-4 col-sm-4 col-md-4">
+            <div id="nav-footer-li">
+              <ul class="top-level-nav-footer-li">
+
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-2 col-md-2 col-lg-2">
+        <div class="footer-comodo-position" style='margin-top:38px'><%= image_tag "logo-comodo.gif", class: "img-responsive img-comodo" %></div>
+      </div>
+
+
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-right">
+        <p class="text-copyright">Copyright &copy;2017 Guard Street Partners, LLC. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</div>

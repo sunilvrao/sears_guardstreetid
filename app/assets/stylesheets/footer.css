@@ -1,0 +1,106 @@
+/************************************************************************************
+FOOTER
+*************************************************************************************/
+.section-footer {
+	width: 100%;
+	background-color: #333333;
+	color: #ffffff;
+}
+#nav-footer-li {
+	font-weight: normal;
+	width:100%;
+}
+#nav-footer-li ul {
+	margin: 0;
+	padding:0;
+	list-style:none;
+	margin-top:40px;
+	margin-bottom:60px;
+}
+ul.top-level-nav-footer-li {
+	background: #333;
+}
+ul.top-level-nav-footer-li li {
+	list-style:none;
+	padding: 0;
+	margin:0;
+}
+#nav-footer-li a {
+	font-family: 'CantoriaMTStd';
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	text-decoration: none;
+	text-align: left;
+	text-transform:uppercase;
+	font-size:13px;
+	line-height:15px;
+	font-weight:normal;
+	padding: 10px 0 10px 0;
+	margin:0;
+}
+#nav-footer-li a:hover {
+	color: #eeaf3e;
+	font-weight: normal;
+	text-decoration: none;
+}
+#nav-footer-li li:hover {
+	background: #333;
+	position: relative;
+}
+#nav-footer-li a:active {
+	color: #999;
+	font-weight: normal;
+	text-decoration: none;
+}
+#nav-footer-li li:active {
+	background: #333;
+	position: relative;
+	color: #eeaf3e;
+	font-weight: bold;
+}
+.footer-guard-street-position {
+	margin:25px 0 15px 0;
+}
+.footer-social-position {
+	margin:25px 0 0 0;
+}
+.text-connect {
+	font-family: 'CantoriaMTStd';
+	font-size:14px;
+	color:#fff;
+	text-transform:uppercase;
+}
+.text-copyright {
+	font-family: 'CantoriaMTStd';
+	font-size:12px;
+	color:#999;
+}
+
+/* ---- MEDIA QUERIES ---- */
+@media (min-width: 768px) {
+#nav-footer-li a {
+	padding: 10px 0 10px 0;
+}
+.text-connect {
+	font-size:14px;
+}
+.text-copyright {
+	font-size:13px;
+}
+}
+@media (min-width: 992px) {
+#nav-footer-li a {
+	padding: 10px 0 10px 0;
+}
+.text-connect {
+	font-size:14px;
+}
+.text-copyright {
+	font-size:13px;
+}
+}
+@media (min-width: 1200px) {
+
+
+}

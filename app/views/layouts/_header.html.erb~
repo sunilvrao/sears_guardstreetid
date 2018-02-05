@@ -1,0 +1,29 @@
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+        <span class="icon-bar"></span></button>
+      <a style="text-decoration: none;" href="<%= root_url %>"><%= image_tag 'GuardStreetTM_294_IDTheft_3.png', class: 'img-logo' %></a>
+    </div>
+    <div class="navbar-collapse collapse">
+
+      <ul class="nav navbar-nav navbar-right">
+        <li class="navbar-divider">
+          <a href="<%= page_path('identitytheft', :coupon_code => params[:coupon_code]) %>">What is ID Theft</a></li>
+        <li class="navbar-divider">
+          <a href="#" data-toggle="modal" data-target="#Community">How It Works</a></li>
+        <li class="navbar-divider <%= 'active' if params["id"] == "Pricing" %>">
+          <a href="<%= root_path(:coupon_code => params[:coupon_code]) %>#Pricing">Pricing</a></li>
+        <li class="navbar-divider <%= 'active' if params["id"] == "about" %>">
+          <%= link_to 'About Us', page_path('about', :coupon_code => params[:coupon_code]) %>
+        </li>
+        <li><a href="<%= new_contact_path(:coupon_code => params[:coupon_code]) %>">Contact Us</a></li>
+        <li>
+          <%= button_to 'Sign Up', root_path(:coupon_code => params[:coupon_code])+'#Pricing', :method => 'get', :class => "btn btn-primary btn-sm navbar-btn-position" %>
+        </li>
+        <li><%= link_to 'Login', login_home_index_path(:coupon_code => params[:coupon_code]) %></li>
+      </ul>
+    </div>
+  </div>
+</div>

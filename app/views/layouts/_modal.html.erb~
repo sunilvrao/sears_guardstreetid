@@ -1,0 +1,178 @@
+<!-- Modal Benefits -->
+<div class="modal fade" id="Benefits" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header-std">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body modal-content-std"> <a id="a"></a>
+	<h2>Black Market Web Surveillance</h2>
+	<p>We scan the internet and known criminal websites for illegal trading of your personal information and monitor unregulated global networks. Then we help you remove that data from the websites that posted it online.</p>
+        <h2>Identity Monitoring</h2>
+	<p>Guard Street searches and monitors thousands of databases and billions of records looking for suspicious activity that could indicate the beginning steps of identity theft. If we notice something suspicious, we place a personal call to you.</p>
+	<h2>Identity Restoration Service Guarantee</h2>
+	<p>The restoration service will do whatever it takes to restore your name to pre identity theft status. The service will take an ‘unlimited’ amount of time, and spend whatever it takes in restoring your identity and good name to a pre-theft status.</p>
+	<h2>$1 Million Insurance with a $0 Deductible*</h2>
+	<p>This expense reimbursement benefit eases the financial hardships associated with identity theft.</p>
+	<h2>Password Protection</h2>
+	<p>Top rated password manager remembers your passwords so you don’t have to. Just remember your one Master Password and it remembers the rest. The industry-leading encryption technology securely stores your passwords. The bookmark-style Logins automatically log you in to your favorite websites and fill out those long forms while you shop with one click. One license works on all devices – PC, Mac, mobile, tablet and USB.</p>
+	<h2>E-Newsletter</h2>
+	<p>Quarterly Identity theft education is a key factor in successful prevention. As a member of Guard Street ID, you now have access to a quarterly electronic newsletter that provides helpful and timely information on all things identity theft related. </p>
+	<h2>Identity Risk Score (Plus and Premium Plans)</h2>
+	<p>Your identity risk score is derived by searching billions of records where we apply our unique and proprietary analytics to create a risk score between 0-999. The higher your score is, the greater the risk that your identity has been or could become compromised.</p> 
+	<h2>Account Activity Alerts (Plus and Premium Plans)</h2>
+	<p>These alerts are for transactions that typically take place outside of a credit report and expose you to financial risk.  By monitoring participating banks, online retailers, telecom providers, health insurers and more, we look for suspicious activity that could indicate the beginning steps of identity theft. </p>
+	<h2>Virtual Private Network (Plus and Premium Plans)</h2>
+	<p>When you activate our Virtual Private Network (VPN), your credit card, banking information and other personal information you may use will be hidden from criminals, fraudsters, hackers and big data marketers. We not only hide your IP address, we change it, making your activity thoroughly secure from tracking the sites you navigate. As a result, they can’t build a profile about you which could compromise your privacy.</p>
+	<p>Our fast, high bandwidth virtual private network is not a public network and allows you to avoid seeing ads. It also allows you to access restricted sites overseas like ABC, CBS, Fox News and more.</p>
+	<h2>Lost Wallet Protection (Plus and Premium Plans)</h2>
+	<p>Our Fraud Resolution Specialists can assist you by requesting an online credit report to ensure no one has fraudulently used your credit cards, canceling affected credit cards and bank accounts, having new cards issued to you and even placing a fraud alert with the credit reporting agencies; all through the use of multi-party phone calls.</p>
+	<h2>Credit Monitoring: One Bureau (Plus and Premium Plans)</h2>
+	<p>You will be alerted when there is an important change or suspicious activity on your report.</p>
+	<h2>Data Breach Notifications (Plus and Premium Plans)</h2>
+	<p>We’ll keep you informed of the latest breaches and updates.</p>
+	<h2>Change of Address Alerts (Plus and Premium Plans)</h2>
+	<p>We monitor the internet for changes to the address listed in your account.</p>
+	<h2>Annual Credit Report Reminders (Plus and Premium Plans)</h2>
+	<p>This gives you the opportunity to identify any false information before applying for credit. Additionally, if you become a victim of identity theft, you may want to check your credit reports for any fraudulent activity.</p>
+	<h2>Secure Email & Data Storage (Premium Plan)</h2>
+	<p>Includes a secure email account where messages are fully encrypted at all times and stored in secure servers in Switzerland. Even your communication with non-Guard Street email users is secure.<p>
+	<p>Create, manage and securely store encrypted passwords and documents of all types (medical records, financial records, travel itineraries, etc) using military grade encryption and with the protection of Swiss Privacy Laws. Your data is also scanned for viruses as you back them up.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="Benefits1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header-std">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body modal-content-std"> <a id="a"></a>
+        <h2>Secure Email & Data Vault</h2>
+        <p>Includes a secure email account where messages are fully encrypted at all times and stored in secure servers in Switzerland.   Even your communication with non-Guard Street email users is secure.  Includes 25 GB of storage. </p>
+        <p>Create, manage and securely store encrypted passwords and documents of all types (medical records, financial records, travel itineraries, etc) using military grade encryption and with the protection of Swiss Privacy Laws.  Your data is also scanned for viruses as you back them up. </p>
+        <a id="k"></a>
+        <h2>Virtual Private Network (VPN)</h2>
+        <p>When you activate our secure web activity tool, your credit card, banking information and other personal information you may use will be hidden from criminals, fraudsters, hackers and big data marketers.  We not only hide your IP address, we change it, making your activity secure from tracking the sites you navigate.  As a result, they can’t build a profile about you which could compromise your privacy.</p>
+        <p>Our fast, high bandwidth virtual private network is not a public network and allows you to avoid seeing ads.  It also allows you to access restricted sites overseas like ABC, CBS, Fox News and more.</p>
+        <a id="b"></a>
+        <h2>Private Web Browsing</h2>
+        <p>Check your privacy exposure on multiple websites as you browse. Allows you to block over 2,000 trackers from following you online. See which websites could sell your data and easily request that they delete what they hold on you.</p>
+        <a id="c"></a>
+        <h2>AntiVirus</h2>
+        <p>Uses cutting edge virus detection methods to catch and remove viruses, adware, malware, spyware, pop-up generators, keyloggers, computer worms, Trojan downloaders and more. Downloads quickly and is hassle free.</p>
+        <a id="d"></a>
+        <h2>Disposable Email Addresses</h2>
+        <p>Keep your real email inbox safe from malware and clean of spam.  Use a unique and temporary email address that allows you to access sites for services you are interested without having to succumb to being on a mailing list.</p>
+        <a id="e"></a>
+        <h2>Exclusive Discounts & Privacy Tools</h2>
+        <p>A menu of additional protection tools available at discounts not available elsewhere.  These include credit card reovery labels, anonymous luggage / key tags and more.</p>
+        <a id="f"></a>
+        <h2>Password Protection</h2>
+        <p>Top rated password manager remembers your passwords so you don’t have to.  Just remember your one Master Password and it remembers the rest.  The industry-leading encryption technology securely stores your passwords.  The bookmark-style Logins automatically log you in to your favorite websites and fill out those long forms while you shop with one click.  One license works on all devices – PC, Mac, mobile, tablet and USB.</p>
+        <a id="h"></a>
+        <h2>Self-Destruct Instant Messaging</h2>
+        <p>Send and receive messages, pictures, videos, audios and files that can’t be tracked or monitored from your mobile devices.  Clean your device completely of deleted files.  Even select a time for your messages to expire. </p>
+        <a id="i"></a>
+        <h2>Credit Card Recovery Labels</h2>
+        <p>This is an identity protected lost and found recovery service for your valuables. Its designed to help you retrieve your lost credit cards without exposing your personal information to criminals and prying eyes. They allow you to program up to 5 phone numbers and email address that will be used when your lost cards are found.</p>
+        <a id="j"></a>
+        <h2>PC and Laptop File Erasure</h2>
+        <p>Software helps maintain privacy through total erasure of the selected files on your PC or laptop.  Erasure of your USB is included.  Erases your internet browsing history for privacy, security and speed purposes.  Comes with a scheduler for regular erasing.</p>
+      </div>
+    </div>
+  </div>
+</div><!-- Modal Benefits -->
+<div class="modal fade" id="Benefits2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header-std">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body modal-content-std"> <a id="a"></a>
+	<h2>Black Market Web Surveillance</h2>
+	<p>We scan the internet and known criminal websites for illegal trading of your personal information and monitor unregulated global networks. Then we help you remove that data from the websites that posted it online.</p>
+        <h2>Identity Monitoring</h2>
+	<p>Guard Street searches and monitors thousands of databases and billions of records looking for suspicious activity that could indicate the beginning steps of identity theft. If we notice something suspicious, we place a personal call to you.</p>
+	<h2>Identity Restoration Service Guarantee</h2>
+	<p>The restoration service will do whatever it takes to restore your name to pre identity theft status. The service will take an ‘unlimited’ amount of time, and spend whatever it takes in restoring your identity and good name to a pre-theft status.</p>
+	<h2>$1 Million Insurance with a $0 Deductible*</h2>
+	<p>This expense reimbursement benefit eases the financial hardships associated with identity theft.</p>
+	<h2>Password Protection</h2>
+	<p>Top rated password manager remembers your passwords so you don’t have to. Just remember your one Master Password and it remembers the rest. The industry-leading encryption technology securely stores your passwords. The bookmark-style Logins automatically log you in to your favorite websites and fill out those long forms while you shop with one click. One license works on all devices – PC, Mac, mobile, tablet and USB.</p>
+	<h2>E-Newsletter</h2>
+	<p>Quarterly Identity theft education is a key factor in successful prevention. As a member of Guard Street ID, you now have access to a quarterly electronic newsletter that provides helpful and timely information on all things identity theft related. </p>
+	<h2>Identity Risk Score (Plus and Premium Plans)</h2>
+	<p>Your identity risk score is derived by searching billions of records where we apply our unique and proprietary analytics to create a risk score between 0-999. The higher your score is, the greater the risk that your identity has been or could become compromised.</p> 
+	<h2>Account Activity Alerts (Plus and Premium Plans)</h2>
+	<p>These alerts are for transactions that typically take place outside of a credit report and expose you to financial risk.  By monitoring participating banks, online retailers, telecom providers, health insurers and more, we look for suspicious activity that could indicate the beginning steps of identity theft. </p>
+	<h2>Virtual Private Network (Plus and Premium Plans)</h2>
+	<p>When you activate our Virtual Private Network (VPN), your credit card, banking information and other personal information you may use will be hidden from criminals, fraudsters, hackers and big data marketers. We not only hide your IP address, we change it, making your activity thoroughly secure from tracking the sites you navigate. As a result, they can’t build a profile about you which could compromise your privacy.</p>
+	<p>Our fast, high bandwidth virtual private network is not a public network and allows you to avoid seeing ads. It also allows you to access restricted sites overseas like ABC, CBS, Fox News and more.</p>
+	<h2>Lost Wallet Protection (Plus and Premium Plans)</h2>
+	<p>Our Fraud Resolution Specialists can assist you by requesting an online credit report to ensure no one has fraudulently used your credit cards, canceling affected credit cards and bank accounts, having new cards issued to you and even placing a fraud alert with the credit reporting agencies; all through the use of multi-party phone calls.</p>
+	<h2>Credit Monitoring: One Bureau (Plus and Premium Plans)</h2>
+	<p>You will be alerted when there is an important change or suspicious activity on your report.</p>
+	<h2>Data Breach Notifications (Plus and Premium Plans)</h2>
+	<p>We’ll keep you informed of the latest breaches and updates.</p>
+	<h2>Change of Address Alerts (Plus and Premium Plans)</h2>
+	<p>We monitor the internet for changes to the address listed in your account.</p>
+	<h2>Annual Credit Report Reminders (Plus and Premium Plans)</h2>
+	<p>This gives you the opportunity to identify any false information before applying for credit. Additionally, if you become a victim of identity theft, you may want to check your credit reports for any fraudulent activity.</p>
+	<h2>Secure Email & Data Storage (Premium Plan)</h2>
+	<p>Includes a secure email account where messages are fully encrypted at all times and stored in secure servers in Switzerland. Even your communication with non-Guard Street email users is secure.<p>
+	<p>Create, manage and securely store encrypted passwords and documents of all types (medical records, financial records, travel itineraries, etc) using military grade encryption and with the protection of Swiss Privacy Laws. Your data is also scanned for viruses as you back them up.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal Benefits -->
+<div class="modal fade" id="Benefits3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header-std">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body modal-content-std"> <a id="a"></a>
+	<h2>Black Market Web Surveillance</h2>
+	<p>We scan the internet and known criminal websites for illegal trading of your personal information and monitor unregulated global networks. Then we help you remove that data from the websites that posted it online.</p>
+        <h2>Identity Monitoring</h2>
+	<p>Guard Street searches and monitors thousands of databases and billions of records looking for suspicious activity that could indicate the beginning steps of identity theft. If we notice something suspicious, we place a personal call to you.</p>
+	<h2>Identity Restoration Service Guarantee</h2>
+	<p>The restoration service will do whatever it takes to restore your name to pre identity theft status. The service will take an ‘unlimited’ amount of time, and spend whatever it takes in restoring your identity and good name to a pre-theft status.</p>
+	<h2>$1 Million Insurance with a $0 Deductible*</h2>
+	<p>This expense reimbursement benefit eases the financial hardships associated with identity theft.</p>
+	<h2>Password Protection</h2>
+	<p>Top rated password manager remembers your passwords so you don’t have to. Just remember your one Master Password and it remembers the rest. The industry-leading encryption technology securely stores your passwords. The bookmark-style Logins automatically log you in to your favorite websites and fill out those long forms while you shop with one click. One license works on all devices – PC, Mac, mobile, tablet and USB.</p>
+	<h2>E-Newsletter</h2>
+	<p>Quarterly Identity theft education is a key factor in successful prevention. As a member of Guard Street ID, you now have access to a quarterly electronic newsletter that provides helpful and timely information on all things identity theft related. </p>
+	<h2>Identity Risk Score (Plus and Premium Plans)</h2>
+	<p>Your identity risk score is derived by searching billions of records where we apply our unique and proprietary analytics to create a risk score between 0-999. The higher your score is, the greater the risk that your identity has been or could become compromised.</p> 
+	<h2>Account Activity Alerts (Plus and Premium Plans)</h2>
+	<p>These alerts are for transactions that typically take place outside of a credit report and expose you to financial risk.  By monitoring participating banks, online retailers, telecom providers, health insurers and more, we look for suspicious activity that could indicate the beginning steps of identity theft. </p>
+	<h2>Virtual Private Network (Plus and Premium Plans)</h2>
+	<p>When you activate our Virtual Private Network (VPN), your credit card, banking information and other personal information you may use will be hidden from criminals, fraudsters, hackers and big data marketers. We not only hide your IP address, we change it, making your activity thoroughly secure from tracking the sites you navigate. As a result, they can’t build a profile about you which could compromise your privacy.</p>
+	<p>Our fast, high bandwidth virtual private network is not a public network and allows you to avoid seeing ads. It also allows you to access restricted sites overseas like ABC, CBS, Fox News and more.</p>
+	<h2>Lost Wallet Protection (Plus and Premium Plans)</h2>
+	<p>Our Fraud Resolution Specialists can assist you by requesting an online credit report to ensure no one has fraudulently used your credit cards, canceling affected credit cards and bank accounts, having new cards issued to you and even placing a fraud alert with the credit reporting agencies; all through the use of multi-party phone calls.</p>
+	<h2>Credit Monitoring: One Bureau (Plus and Premium Plans)</h2>
+	<p>You will be alerted when there is an important change or suspicious activity on your report.</p>
+	<h2>Data Breach Notifications (Plus and Premium Plans)</h2>
+	<p>We’ll keep you informed of the latest breaches and updates.</p>
+	<h2>Change of Address Alerts (Plus and Premium Plans)</h2>
+	<p>We monitor the internet for changes to the address listed in your account.</p>
+	<h2>Annual Credit Report Reminders (Plus and Premium Plans)</h2>
+	<p>This gives you the opportunity to identify any false information before applying for credit. Additionally, if you become a victim of identity theft, you may want to check your credit reports for any fraudulent activity.</p>
+	<h2>Secure Email & Data Storage (Premium Plan)</h2>
+	<p>Includes a secure email account where messages are fully encrypted at all times and stored in secure servers in Switzerland. Even your communication with non-Guard Street email users is secure.<p>
+	<p>Create, manage and securely store encrypted passwords and documents of all types (medical records, financial records, travel itineraries, etc) using military grade encryption and with the protection of Swiss Privacy Laws. Your data is also scanned for viruses as you back them up.</p>
+      </div>
+    </div>
+  </div>
+</div>
+

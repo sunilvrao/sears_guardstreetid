@@ -1,0 +1,36 @@
+<%
+   meta title: "Guard Street Privacy",
+        description: "Data protection system, Data security technologies, Privacy and data protection, Data security breach, What is data privacy",
+        keywords: %w(Home depot email breach)
+%>
+<div class="section-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4"></div>
+      <div class="col-md-8">
+        <h1>Working With Us </h1>
+
+        <p>Most of our candidates can immediately tell on their first interview that this is not your average work
+          environment. Sure, we're busy and we work hard, but there's a culture here that just doesn't exist in other
+          companies. Everyone knows each other by name. We actually talk to one another. New employees work with senior
+          staff members. There's smiles and laughter all the time. Wondering what the difference is? Guard Street is
+          made up of a dedicated team of professionals who work together. We enjoy low turnover because here, respect
+          and integrity are the solid foundation that our collective success is built on. </p>
+
+        <p>We're big enough to provide amazing jobs and competitive packages, but we're small enough to offer a great
+          work environment that is collaborative, innovative and fun. Getting ahead isn't defined by the number of
+          useless hours you put in, but by your level of creativity and service to our clients. Our dedicated employees
+          move up the ladder fast, and it's not hard to see why.</p>
+
+        <p>All work and no play? NEVER. From outings to the bowling alley, softball at Grant Park, surprise food trucks,
+          to friendly competition, we know how to have fun. </p>
+
+        <p>If you're the one that co-workers turn to for input and suggestions, or the person who makes it a point to
+          understand the business and aim for improvement, we want you with us. Take a moment to explore our current
+          openings and apply if we have an opportunity that's right for you.</p>
+
+        <p>Join one of the hottest consumer companies in Chicago.</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,73 @@
+.tabcordion-position {
+	margin:40px 0 0 0;
+}
+.tabcordion {
+	border-top: 0px solid #003356;
+}
+.tabcord-title {
+	background-color: #005794;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size:12px;
+	line-height:30px;
+	color:#ffffff;
+	padding: 0 0 0 4px;
+	border-left: 0px solid #003356;
+	border-right: 0px solid #003356;
+	border-bottom: 0px solid #003356;
+	position: relative;
+	background-image:  url(<%= asset_path('tab-end.png') %>);
+	background-repeat:no-repeat;
+	background-position:right;
+}
+.tabcord-color-2 {
+	background-color: #3d9d36;
+}
+.tabcord-headerBar {
+	border-left: 0px solid #333;
+}
+.tabcord-headerBar .tabcord-title {
+	border-left: none;
+}
+.tabcord-headerBar .tabcord-title.active:after {
+	background-color: #fff;
+	display: block;
+	position: absolute;
+	content: " ";
+	bottom: -1px;
+	height: 1px;
+	left: 0;
+	right: 0;
+}
+.tabcord-title.active, .tabcord-title:hover {
+	color: #ffffff;
+	background-color: #009ed9;
+}
+.tabcord-title-color-2.active, .tabcord-title-color-2:hover {
+	background-color: #55b74e;
+}
+.tabcord-disp {
+	border: 1px solid #003356;
+	background-color: #fff;
+	border-top: none;
+	padding: 20px;
+}
+.tabcord-disp p {
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+	.tabcordion {
+	border-top: 1px solid #003356;
+}
+.tabcord-title {
+	font-size:16px;
+	line-height:30px;
+	padding: 0 0 0 10px;
+	border-left: 1px solid #003356;
+	border-right: 1px solid #003356;
+	border-bottom: 1px solid #003356;
+	background-image:none;
+}
+}

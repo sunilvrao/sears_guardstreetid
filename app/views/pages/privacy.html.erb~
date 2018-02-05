@@ -1,0 +1,101 @@
+<%
+   meta title: "Guard Street Privacy",
+        description: "Data protection system, Data security technologies, Privacy and data protection, Data security breach, What is data privacy",
+        keywords: %w(Home depot email breach)
+%>
+<div class="section-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 hidden-xs">
+        <div id="left-LI-navigation">
+          <ul class="top-level-left-LI-navigation">
+            <li><a href="#a">Information We Collect</a></li>
+            <li><a href="#b">Information Uses</a></li>
+            <li><a href="#c">Access to Personal Information</a></li>
+            <li><a href="#d">Children</a></li>
+            <li><a href="#e">Comments and Questions</a></li>
+            <li><a href="#f">Modifying Our Privacy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-8">
+        <h1>GuardStreet.com Privacy Policy</h1>
+        <p>This Website (GuardStreet.com), its owners and constituents believe that the privacy and security of our visitors, users and customers' information are of utmost importance. We administer strict policies safeguarding your privacy and security. This document (Privacy Policy) defines and informs you of any and all of the instances in which your data and information (collectively, 'information') may be saved and how it may be used. </p>
+        <p>Except as required by law, GuardStreet:</p>
+        <ol>
+          <li> will not sell, rent or lease your data to third parties;</li>
+          <li>will not target our customers based on their behavior on other websites across the web;</li>
+          <li>will not share your data unless it's with companies we've engaged to do work for us, who will be expressly prohibited to share it with anyone else;</li>
+          <li>will not share your data with third parties unless it's for a package or product you purchase from us, or a service/program in which you enroll, and those companies helping to either facilitate the product or service will be expressly prohibited from sharing your data with anyone else;</li>
+          <li> will not share your data with third party advertisers (although we do market third party software, products and services to our customers);</li>
+          <li>will only use and store data for (i) the express purposes we disclose/reserve hereunder, (ii) the purposes that you may authorize from time to time, (iii) purposes of making suggestions and recommendations in respect of programs, products, software and services that we believe will be of interest to you, (iv) our website loyalty program, (v) continually improving and providing the best possible customer experience for the products, software and services that we market on our website currently and in the future, and (vi) compliance under applicable law; and </li>
+          <li>will not contact you in any manner if you unsubscribe and/or opt out of from our website and other communications. </li>
+        </ol>
+        <a class="anchor" id="a"></a>
+        <h2>Information We Collect</h2>
+        <p><strong>Collection of Personal Information.</strong> We do not automatically collect personal information when you browse the Website. We only collect personally identifiable information, such as your name, address, email address and credit card information when you specifically and knowingly provide it to us by establishing and registering an account, placing an order, completing online forms, or opting in to receive our newsletter.  Information that you furnish to GuardStreet.com is used to provide the services available through the Website.</p>
+        <p><strong>From Customers and Visitors of our Website and Services We Collect The Following:</strong></p>
+        <ul>
+          <li>E-mail Address</li>
+          <li>Mobile phone number</li>
+          <li>Payment Information</li>
+          <li>Address as necessary to fulfill the products or services</li>
+          <li>Limited usage data to be able to suggest other products and services from the website<br>
+          </li>
+          <li>From those customers who opt to enroll in the loyalty program or receive our newsletter, we collect only the usage information to fulfill our obligations for providing the emailed newsletter or extending savings from the loyalty program </li>
+          <li>Google analytics data </li>
+          <li>Submissions on the 'Contact Us' page</li>
+          <li>Any e-mails we receive from visitors and customers alike.</li>
+        </ul>
+        <p><strong>Third Party Links and Services.</strong> The Website contains links to third-party websites including social networking websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services to which we link or that link to us. We do not endorse or make any representations about third-party websites or services. The personal information you choose to provide to such third parties, or that is collected by them, is not covered by this Policy. We strongly encourage you to read such third parties' privacy policies.<br>
+        </p>
+        <a class="anchor" id="b"></a>
+        <h2>Information Uses</h2>
+        <p>We use your information for the purpose for which you provided it and we may also use your information for other purposes such as to:</p>
+        <ul>
+          <li>Create and maintain your account or registration;</li>
+          <li>Enhance the user experience;</li>
+          <li>Suggest products, services and software;</li>
+          <li>Respond to and fulfill your request for services (including processing orders);</li>
+          <li>Send you communications related to your account and to alert you of the latest developments and features of the Website.</li>
+          <li>Placing and completing an order (we do not share this information with outside parties except to the extent necessary to complete that order).</li>
+          <li>E-mail address is used to send subscription information, payment confirmations and other permitted correspondence.</li>
+        </ul>
+        <p><strong>User-Initiated Communication.</strong> From time to time, portions of the Website may enable you to send emails and other types of messages to us or third parties. Whenever you choose to initiate these kinds of communications with us, you may be contacted in return.</p>
+        <p><strong>Customer Reviews.</strong> We post customer reviews on the Website which may contain personally identifiable information. We will obtain a customer's consent by email prior to posting their review.</p>
+        <p><strong>Cookies and Other Technologies.</strong> Our website, online services, interactive applications, email messages, and advertisements may use “cookies” and other technologies such as pixel tags and web beacons. These technologies help us better understand visitor behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that IP addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for purposes of this Privacy Policy.</p>
+        <p>We and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with us more convenient and personal, thereby providing you with a more customized and useful experience. </p>
+        <p>If you want to disable cookies, check with your provider to find out how to disable cookies. </p>
+        <p>As is true of most websites, we gather some visitor information automatically and store it in log files. This information includes IP addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.  We use this information to understand and analyze trends, to administer our site, to learn about user behavior on our site, and to gather demographic information about our user base as a whole. We may use this information in our marketing and advertising services.</p>
+        <p>In some of our email messages, we may use a “click-through URL” linked to content on our website. When visitors and customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links contained in the email messages.</p>
+        <p><strong>Opting In and Out of Email Communications.</strong> From time to time, we may send you email notices or news updates alerting you to new features, products and services pertaining to our offerings, or other topics that may be of interest to you. If you no longer wish to receive promotional materials from us, you may opt out of receiving these communications by following the instructions included in each newsletter or communication or by emailing us at unsubscribe@guardstreet.com.  We will make every reasonable effort to remove your information from further email communications within 15 days of your unsubscribe request.</p>
+        <p><strong>Data Security.</strong> We follow generally accepted industry standards to protect the personally identifiable information that we receive from you, while the information is being transmitted and once we receive it. When you provide us with sensitive information (such as credit card information) on our order forms, we encrypt the information using secure socket layer technology, which is commonly referred to as “SSL.” However, despite our best efforts, no method of transmission over the Internet, or method of electronic storage is 100% secure. We encourage you to contact us immediately if you believe that any personally identifiable information that you have provided us has been compromised and is being used contrary to this Policy.</p>
+        <p><strong>Social Media Features and Widgets.</strong> Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+        <p><strong>Single Sign-On.</strong> You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.<br>
+        </p>
+        <a class="anchor" id="c"></a>
+        <h2>Access to Personal Information</h2>
+        <p>You can help ensure that your contact information and preferences are accurate, complete, and up to date by contacting us. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if we determine it is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be granted by contacting us. <br>
+        </p>
+        <a class="anchor" id="d"></a>
+        <h2>Children</h2>
+        <p>We do not knowingly collect personal information from children under the age of 13. If we learn that we have collected the personal information of a child under 13 years old, we will take steps to delete the information as soon as possible. <br>
+        </p>
+        <a class="anchor" id="e"></a>
+        <h2>Comments and Questions</h2>
+        <p>If you have a comment or question about this Privacy Policy, please contact us at the email address listed below.</p>
+        <p>Notice to California Residents: If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by certain members of GuardStreet to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to support@GuardStreet.com or write us at the following address:</p>
+        <p><strong>Privacy Policy Administrator</strong><br>
+          GuardStreet<br>
+          120 East Liberty Street, Suite 220<br>
+          Wheaton, IL 60187</p>
+        <p>If you have any questions about this policy, please contact us at <a href="mailto:info@GuardStreet.com">info@GuardStreet.com</a>.</p>
+        <a class="anchor" id="f"></a>
+        <h2>Modifying Our Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.<br>
+        </p>
+        <p><em>Last revised October 11th, 2014</em></p>
+      </div>
+    </div>
+  </div>
+</div>

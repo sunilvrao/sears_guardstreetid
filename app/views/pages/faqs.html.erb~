@@ -1,0 +1,158 @@
+<div class="section-boom-img-faqs" style="background-image: url(<%= asset_path('boom-hands.jpg') %>)"> </div>
+<div class="section-content">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<div id="left-LI-navigation">
+					<ul class="top-level-left-LI-navigation">
+						<li><a href="#a">General FAQs</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-8">
+				<h1>Guard Street ID Theft Protection Frequently Asked Questions</h1>
+				<p>Below are answers to some common questions about Guard Street ID Theft Protection. Should you wish to speak to a live Customer Service Representative, please call 1-800- 517-4550.</p>
+				<a id="a"></a>
+				<h2>GENERAL FAQ’s</h2>
+				<div class="panel-group" id="accordion">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> What is Guard Street? </a> </h4>
+						</div>
+						<div id="collapseOne" class="panel-collapse collapse in">
+							<div class="panel-body"> Guard Street offers packages of tools that protect your data and privacy. We take the guesswork out of figuring out how to get the best protection. We carefully developed packages with a set of tools that form a great personal protection kit. This includes encrypting your data and storing it on Swiss servers, providing secure email, secure internet navigation and Identity Theft Protection monitoring, insurance and resolution services. Guard Street is carefully designed to provide online protection when you’re navigating, social networking, communicating, storing data, shopping, banking and traveling. All in one place, using any device. </div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"> How can I contact you? I need technical support.</a> </h4>
+						</div>
+						<div id="collapseTwo" class="panel-collapse collapse">
+							<div class="panel-body"> We proudly offer phone or email support, and our representatives will be happy to help you. You can contact us at 1-800- 517-4550 or click on our Support tab.</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse4"> What if I change my email address?</a> </h4>
+						</div>
+						<div id="collapse4" class="panel-collapse collapse">
+							<div class="panel-body"> If you change your email address, you can update it by logging in to your portal and updating it in the My Account tab. </div>
+						</div>
+					</div>
+
+					
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"> Who do I contact if I have a billing question? </a> </h4>
+						</div>
+						<div id="collapseThree" class="panel-collapse collapse">
+							<div class="panel-body"> Live customer service representatives can be reached at: 1-800- 517-4550, Monday - Friday, 9:00am to 5:00pm CST. </div>
+						</div>
+					</div>
+
+					
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse5"> Who do I contact if I have a billing question?</a> </h4>
+						</div>
+						<div id="collapse5" class="panel-collapse collapse">
+							<div class="panel-body"> Live customer service representatives can be reached at: 1-800-517-4550, Monday - Friday, 9:00am - 5:00pm CST. You can also reach us via email at support@guardstreet.com. Allow one business day to receive a response to your e-mail inquiries. </div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse14"> Will Guard Street store all my passwords for me?</a> </h4>
+						</div>
+						<div id="collapse14" class="panel-collapse collapse">
+							<div class="panel-body"> When you activate your password manager, you can store your passwords in your vault. </div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse15"> What personal information will you collect on me?</a> </h4>
+						</div>
+						<div id="collapse15" class="panel-collapse collapse">
+							<div class="panel-body"> When you purchase one of our packages, we collect your email address, payment information and if you would like to receive a fulfillment kit that confirms what is included in your package, you may provide us this information (however, you are not obligated to provide your address).  This is the basic information we need to fulfill the packages, products and services you purchase.  For more information about information we collect, please click here to review our Privacy Policy. 
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse17"> Will I be restricted from visiting certain websites that are deemed unsafe?</a> </h4>
+						</div>
+						<div id="collapse17" class="panel-collapse collapse">
+							<div class="panel-body">Guard Street does not restrict you from visiting any website. We provide you with tools designed to help protect you should you visit a site or receive an email that may be unsafe.  Our suggestion is that if you are aware that a site is considered unsafe, please don’t visit it and use caution.  We also suggest using your secure email account at all times.  While there is no such thing as 100% protection, this provides you with a strong level of defense.
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse18"> Now that I have Guard Street, can I visit any unsafe site and open any email and be 100% protected?   </a> </h4>
+						</div>
+						<div id="collapse18" class="panel-collapse collapse">
+							<div class="panel-body">In short, no.  You should always be cautious about navigating on sites you are not familiar with or that may be considered unsafe.  That also goes for opening emails (the most common source of getting computer viruses) from senders you aren’t familiar with.  There is no such thing as 100% protection.  Guard Street offers a great and tested set of tools to help protect you, but you will still need to use caution and good judgment in your web activity and maintenance of your digital devices.
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse19"> I have a free VPN, do I need one from Guard Street?</a> </h4>
+						</div>
+						<div id="collapse19" class="panel-collapse collapse">
+							<div class="panel-body">Yes.  Free usually equates to seeing advertising, tracking your activity or really low bandwidth.
+							</div>
+						</div>
+					</div>
+
+
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse20">What happens if I accidentally delete one of my downloads?</a> </h4>
+						</div>
+						<div id="collapse20" class="panel-collapse collapse">
+							<div class="panel-body">No problem, you can reinstall it on the same machine using the same license.
+							</div>
+						</div>
+					</div>
+
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse26">What should I do if my identity has been compromised?</a> </h4>
+						</div>
+						<div id="collapse26" class="panel-collapse collapse">
+							<div class="panel-body">Log into your portal to get the telephone number to reach a Fraud Resolution Representative. </div>
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse27">How do I cancel my membership?</a> </h4>
+						</div>
+						<div id="collapse27" class="panel-collapse collapse">
+							<div class="panel-body">To cancel your Membership, call customer service toll free at 1-800-517-4550, Monday - Friday, 9:00am - 5:00pm CST</div>
+						</div>
+					</div>
+
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse32">Will my computer slow down when I install the software available on Guard Street?</a> </h4>
+						</div>
+						<div id="collapse32" class="panel-collapse collapse">
+							<div class="panel-body">As with any software, when it does its job to protect your privacy, it may slow down to warn you of threats, allow you to enter passwords, navigate the internet anonymously or finish running its erasure. 
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,13 @@
+module ApplicationHelper
+def user_machine
+    begin
+      return 'Mac' if request.env["HTTP_USER_AGENT"].match(/Macintosh/)
+      return 'Windows' if request.env["HTTP_USER_AGENT"].match(/Windows/)
+      return 'iPhone' if request.env["HTTP_USER_AGENT"].match(/iPhone/)
+      return 'Android' if request.env["HTTP_USER_AGENT"].match(/Android/)
+      return 'iPad' if request.env["HTTP_USER_AGENT"].match(/iPad/)
+    rescue Exception => e
+      return 'Windows'
+    end
+  end
+end

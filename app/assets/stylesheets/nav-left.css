@@ -1,0 +1,67 @@
+/************************************************************************************
+NAV LEFT
+*************************************************************************************/
+#left-LI-navigation {
+	font-weight: normal;
+	width:95%;
+	margin-bottom:30px;
+
+}
+#left-LI-navigation ul {
+	margin: 0;
+	padding:0;
+	list-style:none;
+}
+ul.top-level-left-LI-navigation {
+	
+}
+ul.top-level-left-LI-navigation li {
+	list-style:none;
+	padding: 0;
+	margin:0;
+	border-bottom: 1px solid #d9dada;
+}
+#left-LI-navigation a {
+	font-family: 'CantoriaMTStd';
+	font-size:18px;
+	line-height:22px;
+	font-weight:bold;
+	color: #333;
+	cursor: pointer;
+	display: block;
+	text-decoration: none;
+	text-align: left;
+	padding: 10px 0 10px 0;
+	margin:0;
+}
+#left-LI-navigation a:hover {
+	color: #f2ae41;
+	font-weight: bold;
+	text-decoration: none;
+}
+#left-LI-navigation li:hover {
+	position: relative;
+}
+#left-LI-navigation a:active {
+	color: #f2ae41;
+	font-weight: bold;
+	text-decoration: none;
+}
+#left-LI-navigation li:active {
+	position: relative;
+	color: #f2ae41;
+	font-weight: bold;
+}
+
+/**************************
+MEDIA QUERIES
+***************************/
+@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 1200px) {
+
+}

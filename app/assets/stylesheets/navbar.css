@@ -1,0 +1,185 @@
+/************************************************************************************
+NAV BAR
+*************************************************************************************/
+.img-logo {
+	height: 70px;
+	margin: 0;
+	padding: 0;
+}
+.navbar-btn-position {
+	margin: 10px 0 10px 10px;
+}
+.navbar-divider {
+	border-right: 1px solid #005794;
+}
+.navbar {
+	min-height: 20px;
+	margin-bottom: 0px;
+	border: 1px solid transparent;
+}
+.navbar-nav {
+	margin: 0 0 0px 0;
+}
+.navbar-default {
+	background-color: #fff;
+	border-color: #fff;
+	border-bottom: 5px solid #f2ae41;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #5e5e5e;
+	background-color: transparent;
+}
+.navbar-default .navbar-text {
+	color: #777;
+}
+.nav > li > a {
+	position: relative;
+	display: block;
+	padding: 0px 12px;
+}
+.navbar-nav > li {
+	margin: 0px 0 0 0;
+	border-bottom: 1px solid rgba(255, 255, 255, .25);
+}
+.navbar-nav > li > a {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.navbar-default .navbar-nav > li > a {
+	font-family: 'CantoriaMTStdBold';
+	color: #fff;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin-left: 0px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #f2ae41;
+	background-color: transparent;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #f2ae41;
+	background-color: transparent;
+}
+.navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+	background-color: transparent;
+}
+.navbar-toggle {
+	position: relative;
+	float: right;
+	padding: 9px 10px;
+	margin-top: 18px;
+	margin-right: 15px;
+	margin-bottom: 8px;
+	background-color: transparent;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+.navbar-collapse {
+	background-color: #005794;
+	padding: 5px 0 20px 0;
+}
+.navbar-default .navbar-toggle {
+	border-color: #fff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #666;
+}
+.navbar-default .navbar-toggle:hover .icon-bar {
+	background-color: #f2ae41;
+}
+.logged-in-container {
+	margin:10px 0 0 0;
+	text-align:right;
+}
+.logged-in-welcome {
+	margin-bottom:8px;
+}
+.text-logged-in-hdr {
+	font-size:15px;
+	line-height:19px;
+	margin:0;
+}
+.navbar-nav-logged-in {
+	margin:0;
+}
+
+/**************************
+MEDIA QUERIES
+***************************/
+@media (min-width: 768px) {
+.img-logo {
+	height: 79px;
+	margin: 0;
+	padding: 0;
+}
+.img-logo-logged-in {
+	height:90px;
+	margin-top:7px;
+}
+.navbar-default .navbar-nav > li > a {
+	font-family: 'CantoriaMTStd';
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 12px;
+	color: #005794;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.navbar-nav > li {
+	margin: 62px 0 0 0;
+}
+.navbar-btn-position {
+	margin: -15px 5px 0 5px;
+}
+.navbar-nav > li {
+	margin: 37px 0 0 0;
+}
+.navbar-collapse {
+	background-color: #fff;
+	padding: 0px 0 0px 0;
+}
+.navbar-nav-logged-in {
+	margin:-17px 0 5px 0;
+}
+}
+
+@media (min-width: 992px) {
+.img-logo {
+	height: 110px;
+	margin: 0;
+	padding: 0;
+}
+.img-logo-logged-in {
+	margin-top:7px;
+}
+.navbar-default .navbar-nav > li > a {
+	font-size: 14px;
+	line-height: 14px;
+	color: #005794;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.navbar-nav > li {
+	margin: 50px 0 0 0;
+}
+.navbar-btn-position {
+	margin: -12px 5px 0 5px;
+}
+.navbar-nav-logged-in {
+	margin:-25px 0 5px 0;
+}
+}
+
+@media (min-width: 1200px) {
+}

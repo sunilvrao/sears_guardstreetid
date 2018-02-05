@@ -1,0 +1,200 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+* or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the top of the
+* compiled file, but it's generally better to create a new file per style scope.
+*
+*= require guardstreet
+*= require bootstrap
+*= require buttons
+*= require carousel.css.erb
+*= require footer
+*= require home1.css.erb
+*= require ie8-and-down
+*= require modals
+*= require nav-left
+*= require navbar
+*= require styles.css.erb
+*= require tabcordion
+*= require tabcordion-skin.css.erb
+*/
+.IDProtection_Premium {
+    width: 74%;
+    height: 112px;
+}
+/**************************
+MEDIA QUERIES
+***************************/
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+.img-sears-burst-white {
+	padding-top: 140px;
+	max-width: 300px;
+}
+ .carousel .item {
+ height:500px;
+}
+ .carousel-portal .item {
+ height:400px;
+}
+.carousel-caption {
+	height: 500px;
+	padding-left: 20%;
+	padding-right: 10%;
+	margin-left: 30%;
+	background-position:left;
+	background-image:url(<%= asset_path('boom-arrow-2.png') %>);
+}
+.carousel-caption-login {
+	height: 500px;
+	padding-left: 280px;
+	padding-right: 10%;
+	margin-left: 360px;
+	background-position:left;
+}
+.carousel-caption-portal {
+	height: 400px;
+	padding-left: 20%;
+	padding-right: 10%;
+	margin-left: 30%;
+	background-position:left;
+	background-image:url(<%= asset_path('boom-arrow-2.png') %>);
+}
+.carousel-h1 {
+	font-size: 46px;
+	line-height:46px;
+}
+.carousel-h1-1 {
+	font-size: 70px;
+	line-height:70px;
+	margin-left:-60px;
+}
+.carousel-h1-2 {
+	font-size: 38px;
+	line-height:38px;
+	font-weight: normal;
+	margin-left:-20px;
+}
+.carousel-h2 {
+	font-size: 26px;
+	line-height:26px;
+}
+.swiss-made {
+	float:left;
+	z-index: 30;
+	margin-left:-125px;
+	visibility:visible;
+}
+.carousel-login .item {
+ height:340px;
+}
+.carousel-caption-login {
+	height: 340px;
+	padding-left: 160px;
+	padding-right: 5%;
+	margin-left: 30%;
+}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+.img-sears-burst-white {
+	padding-top: 140px;
+}
+ .carousel .item {
+ height:500px;
+}
+ .carousel-portal .item {
+ height:400px;
+}
+.carousel-caption {
+	height: 500px;
+	padding-left: 270px;
+	padding-right: 10%;
+	margin-left: 200px;
+	background-image:url(<%= asset_path('boom-arrow.png') %>);
+}
+.carousel-caption-login {
+	height: 500px;
+	padding-left: 280px;
+	padding-right: 10%;
+	margin-left: 360px;
+}
+.carousel-caption-portal {
+	height: 400px;
+	padding-left: 270px;
+	padding-right: 10%;
+	margin-left: 200px;
+	background-image:url(<%= asset_path('boom-arrow.png') %>);
+}
+.carousel-h1 {
+	font-family: 'CantoriaMTStd';
+	font-size: 52px;
+	line-height:52px;
+}
+.carousel-h1-1 {
+	font-family: 'CantoriaMTStd';
+	font-size: 75px;
+	line-height75px;
+	
+}
+.carousel-h1-2 {
+	font-size: 50px;
+	line-height:50px;
+	margin-bottom:10px;
+}
+.carousel-h2 {
+	font-size: 30px;
+	line-height:30px;
+	margin-bottom:10px;
+}
+.carousel-login .item {
+ height:340px;
+}
+.carousel-caption-login {
+	height: 340px;
+	padding-left: 160px;
+	padding-right: 5%;
+	margin-left: 40%;
+}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+.img-sears-burst-white {
+	padding-top: 85px;
+	max-width: 400px;
+}
+.carousel .item {
+ height:500px;
+}
+.carousel-caption {
+	height: 500px;
+	padding-left: 280px;
+	padding-right: 10%;
+	margin-left: 360px;
+}
+.carousel-portal .item {
+ height:400px;
+}
+.carousel-caption-portal {
+	height: 400px;
+	padding-left: 280px;
+	padding-right: 10%;
+	margin-left: 360px;
+}
+.carousel-login .item {
+ height:390px;
+}
+.carousel-caption-login {
+	height: 400px;
+	padding-left: 180px;
+	padding-right: 15%;
+	margin-left: 43%;
+}
+}
