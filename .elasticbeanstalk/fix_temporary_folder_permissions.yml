@@ -1,3 +1,5 @@
 commands:
-  01_set_tmp_permissions:
-    command: chmod 777 /var/app/current/tmp"
+  01mkdir:
+      command: "mkdir /var/app/current/tmp"
+  02chmod:
+      command: "chmod 777 /var/app/current/tmp"
