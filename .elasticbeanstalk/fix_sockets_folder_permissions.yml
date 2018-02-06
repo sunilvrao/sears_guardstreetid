@@ -1,0 +1,5 @@
+commands:
+  01mkdir:
+      command: "mkdir /var/app/current/tmp/sockets"
+  02chmod:
+      command: "chmod 777 /var/app/current/tmp/sockets"
