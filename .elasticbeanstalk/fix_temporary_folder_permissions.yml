@@ -1,7 +1,0 @@
-commands:
-  01mkdir:
-      command: "mkdir /var/app/current/tmp"
-      command: "mkdir /var/app/current/tmp/pids"
-  02chmod:
-      command: "chmod 777 /var/app/current/tmp"
-      command: "chmod 777 /var/app/current/tmp/pids"
