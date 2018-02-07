@@ -1,5 +1,5 @@
 # config valid only for Capistrano 3.1
-lock '3.4.0'
+lock '3.10.0'
 
 set :repo_url, "git@github.com:sunilvrao/sears_guardstreetid.git"
 set :rvm_ruby_version, 'ruby-2.2.1'
@@ -18,7 +18,7 @@ set :ssh_options, {
                     config: false
                 }
 
-set :linked_files, %w(config/database.yml config/secrets.yml)
+#set :linked_files, %w(config/database.yml config/secrets.yml)
 
 after 'deploy', 'deploy:restart', "deploy:cleanup"
 #before 'deploy:migrate', 'deploy:bundle'
