@@ -42,6 +42,12 @@ group :development, :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
+gem 'capistrano-rails',   '~> 1.1', require: false
+  gem 'capistrano-bundler', '~> 1.1', require: false
+  gem 'capistrano-rvm',   '~> 0.1', require: false
+  gem 'capistrano-rbenv', '~> 2.0', require: false
+  gem 'capistrano-chruby', github: 'capistrano/chruby', require: false
+  gem 'capistrano-sidekiq'
 end
 
 group :development do
