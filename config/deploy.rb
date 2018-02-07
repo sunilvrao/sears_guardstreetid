@@ -1,5 +1,5 @@
 # config valid only for Capistrano 3.1
-lock '3.10.0'
+lock '3.10.1'
 
 set :repo_url, "git@github.com:sunilvrao/sears_guardstreetid.git"
 set :rvm_ruby_version, 'ruby-2.2.1'
