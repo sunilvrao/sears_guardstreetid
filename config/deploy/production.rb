@@ -1,16 +1,16 @@
 
 set :stage, :production
 set :branch, "master"
-set :domain, "gslanding.com"
+set :domain, "34.217.59.171"
 
-role :app, "gslanding.com"
-role :db, "gslanding.com", :primary => true
+role :app, "34.217.59.171"
+role :db, "34.217.59.171", :primary => true
 
 set :deploy_to, "/home/ubuntu/sears_guardstreetid"
 set :application_path, "/home/ubuntu/sears_guardstreetid"
 set :rails_env, "production"
 
-server 'gslanding.com',
+server '34.217.59.171',
        user: 'ubuntu',
        roles: %w{web app}
 
