@@ -2,7 +2,7 @@
 lock '3.10.1'
 
 set :repo_url, "git@github.com:sunilvrao/sears_guardstreetid.git"
-set :rvm_ruby_version, 'ruby-2.3.1'
+set :rvm_ruby_version, 'ruby-2.4.1'
 
 set :scm, :git
 set :deploy_via, :remote_cache
