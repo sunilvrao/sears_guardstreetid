@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: sears_guardstreetid
+    environment: sears-guardstreetid-prod
     group_suffix: null
 global:
   application_name: sears_guardstreetid
