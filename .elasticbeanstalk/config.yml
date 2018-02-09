@@ -6,7 +6,7 @@ global:
   application_name: sears_guardstreetid
   branch: null
   default_ec2_keyname: sears_landing_wholesale
-  default_platform: Ruby 2.4 (Puma)
+  default_platform: Ruby 2.3 (Puma)
   default_region: us-east-1
   include_git_submodules: true
   instance_profile: null
